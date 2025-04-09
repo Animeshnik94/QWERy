@@ -21,7 +21,7 @@ export default function Footer() {
       <div className="grid grid-cols-1 md:grid-cols-[43%_19%_19%_19%] gap-7 md:gap-0  mb-25">
         <div className="w-full col-span-1 lg:w-70">
           <h1 className="text-2xl mb-9 font-bold">
-            Let's go on vacation, Make your day
+            Let s go on vacation, Make your day
           </h1>
           <form className="flex flex-row items-center">
             <input
